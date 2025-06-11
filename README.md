@@ -1,7 +1,6 @@
 # Mini-Project-01
-Python Assignment
+##Python Assignment
 
-This assignment focuses on strengthening core Python concepts using hands-on coding tasks. It is divided into the following themes:
 ---
 ### **1. Working with Lists**
 Learn to manipulate lists using various operations:
