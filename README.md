@@ -1,7 +1,7 @@
 # Mini-Project-01  
 ## Python Assignment
 
-📄 [**Click here to view the original assignment questions (PDF)**](Assignment - Basics of Python (1).pdf)
+📄 [**Click here to view the original assignment questions (PDF)**](./Assignment%20-%20Basics%20of%20Python%20(1).pdf)
 
 ---
 
