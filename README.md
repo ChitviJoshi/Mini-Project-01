@@ -4,7 +4,7 @@
 ---
 ### **1. Working with Lists**
 Learn to manipulate lists using various operations:
-     -Add / Remove Elements: Append or delete specific items.
+-Add / Remove Elements: Append or delete specific items.
 ####-Sorting: Order items in ascending or descending form.
 ####-Searching: Check presence of an element.
 ####-Aggregations: Count, sum all, sum odd/even/prime numbers.
